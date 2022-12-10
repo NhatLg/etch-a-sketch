@@ -1,0 +1,64 @@
+.container {
+}
+
+.row {
+    width: 960px;
+    flex: 1;
+    display:flex;
+    gap: 1px;
+    margin: 0;
+    margin-bottom: 1px;
+    border: 0;
+}
+
+.col {
+    background-color:rgb(220,220,220);
+    padding: 1px;
+    aspect-ratio: 1;
+    flex: 1;
+    /* transition: all 5s; */
+}
+
+.brightness100 {
+    filter: brightness(100%);
+}
+
+.brightness90 {
+    filter: brightness(90%);
+}
+
+.brightness80 {
+    filter: brightness(80%);
+}
+
+.brightness70 {
+    filter: brightness(70%);
+}
+
+.brightness60 {
+    filter: brightness(60%);
+}
+
+.brightness50 {
+    filter: brightness(50%);
+}
+
+.brightness40 {
+    filter: brightness(40%);
+}
+
+.brightness30 {
+    filter: brightness(30%);
+}
+
+.brightness20 {
+    filter: brightness(20%);
+}
+
+.brightness10 {
+    filter: brightness(10%);
+}
+
+.brightness00 {
+    filter: brightness(0%);
+}
